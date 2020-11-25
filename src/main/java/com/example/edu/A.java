@@ -4,12 +4,18 @@ public class A {
 
      public String method23() {
     	 return null;
-
+     }
      public static void getTest() {
     	 
 
      }
      
+
      
      //comment
+
+  public static void getTest45() {
+    	 
+     }
+
 }
